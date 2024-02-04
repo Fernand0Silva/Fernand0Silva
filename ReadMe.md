@@ -1,5 +1,6 @@
 # 💫 About Me:
 Sou estudante de Desenvolvimento de Sistemas<br>
+Sempre tive interesse na área de tecnologia, mas não sabia por onde começar devido ela ser uma área muito vasta,pórem com o bum das IAs percebi que a humanidade e máquina estaram cada vez mais inteligados por isso adentrei na área de programação por ser um caminho que melho se encaixa no meu perfil e também pelas vantagens que a programação oferece e a sua capacidade de mudar a vida e as necessidades do ser humano. 
 
 
 ## 🌐 Socials:
